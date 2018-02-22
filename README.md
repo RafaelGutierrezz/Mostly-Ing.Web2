@@ -53,16 +53,15 @@ footer {
   }
 }
 
-@media (min-width: 800px) {
-  .columna1,
+@media (min-width: 1080px) {
+  .columna1{width: 90%}
   .columna2,
   .columna3,
-  .columna4{
-    width: 45%;
+  .columna4 { width: 45%;
   }
 
   .container {
-    width: 800px;
+    width: 10/0px;
     margin-left: auto;
     margin-right: auto;
   }
