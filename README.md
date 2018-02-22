@@ -39,8 +39,8 @@ footer {
 @media (min-width: 100px) {
   .columna1 {width: 90%}
   .columna2 {width: 90%}
-  .columna3{width: 40%}
-  .columna4 {width: 40%}
+  .columna3{width: 90%}
+  .columna4 {width: 90%}
   }
 }
 
@@ -61,7 +61,7 @@ footer {
   }
 
   .container {
-    width: 10/0px;
+    width: 1080px;
     margin-left: auto;
     margin-right: auto;
   }
