@@ -39,14 +39,14 @@ footer {
 @media (min-width: 100px) {
   .columna1 {width: 90%}
   .columna2 {width: 90%}
-  .columna3{width: 30%}
-  .columna4 {width: 30%}
+  .columna3{width: 40%}
+  .columna4 {width: 40%}
   }
 }
 
 @media (min-width: 600px) {
-  .columna1{width: 40%}
-  .columna2{width: 40%}
+  .columna1{width: 35%}
+  .columna2{width: 35%}
   .columna3,
   .columna4{
     width: 30%;
